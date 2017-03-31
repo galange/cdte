@@ -133,7 +133,7 @@ src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/r
     header .fw-feed-title a:link{color:#d8cf5e;}
     header .fw-feed-title a:hover{color:#ffffff;}
     header .fw-feed-title a:visited{color:#d8cf5e;}
-	#fw-feed-items-scroll-area{background-color:#24262a; background-image:none; width: 100%; overflow:hidden;}
+	#fw-feed-items-scroll-area{background-color:rgba(36, 38, 42, 0.18); background-image:none; width: 100%; overflow:hidden;}
     
     #fw-feed-items{margin:0;padding:0; overflow:hidden; z-index:-999;}
     
